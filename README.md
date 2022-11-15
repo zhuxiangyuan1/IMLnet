@@ -1,4 +1,4 @@
-# IMLSSR
+# IMLnet
 This is the official code of our paper "Stereoscopic Image Super-Resolution with Interactive Memory Learning"
 
 ## Requirements
@@ -10,6 +10,10 @@ This is the official code of our paper "Stereoscopic Image Super-Resolution with
 - tqdm 
 - pandas
 - cv2 (pip install opencv-python)
+
+## Performance
+![image](https://user-images.githubusercontent.com/44913976/201809550-1d409690-acf6-400e-9a48-deb5a94b68b3.png)
+
 
 ### Prepare the dataset
 1. Download the [Flickr1024 Dataset](https://yingqianwang.github.io/Flickr1024/) dataset and put the images in `data/train/Flickr1024` for training.
